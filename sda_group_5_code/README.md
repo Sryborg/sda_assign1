@@ -40,9 +40,10 @@ I have used the master also to process a piece of the data and it also does the 
 I've used the scatter and gather method to make my solution distinct.
 
 ## Running the codes:
+To run the code (On Mac or Linux)
+```time mpiexec -n 4 python solution2_masterSlave.py```
 
-
-## Refrences:
+## References:
 For really great Examples on MPI: 
 1. [MPI for python Docs](https://mpi4py.readthedocs.io/en/stable/tutorial.html)
 2. [Parallel Computing Presentation](https://hpc-forge.cineca.it/files/ScuolaCalcoloParallelo_WebDAV/public/anno-2016/25_Summer_School/Rome/mpi4py.pdf)
